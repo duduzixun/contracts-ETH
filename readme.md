@@ -94,5 +94,45 @@ Metamask钱包：https://metamask.io
 
 ![img_8.png](img_8.png)
 
+    B4.6、查看，交易状态，是否成功。以及查看合约地址。，这里成功了后会出现智能合约地址，如：0x9de99b5a80c84fcae02051ec801d2d9b4577374a
+![img_13.png](img_13.png)
+
+
+![img_11.png](img_11.png)
+发布成功
+![img_12.png](img_12.png)
+
+
+增加代币,把刚才复制的地址：0x9de99b5a80c84fcae02051ec801d2d9b4577374a
+![img_10.png](img_10.png)
+![img_14.png](img_14.png)
+下一步，添加代币
+![img_15.png](img_15.png)
+点击导入
+![img_16.png](img_16.png)
+
+成功效果
+![img_17.png](img_17.png)
+![img_18.png](img_18.png)
+
+好了，代币就可以使用了。   
+
+ 是你的合约地址，你可以把这个地址分享给其他人，让他们也可以使用你的代币。
+智能合约(两要素：网络，地址) 
+网络是：sepolia 
+地址：0x9De99b5a80C84fcaE02051eC801d2D9b4577374a
+
+这个测试币以及空气币都是免费的，如果有人想要测试币，你可以在下面的网站申请：
+
+
+
+
+
+
+
+
+
+
+
 datetime: 2025-04-30 10:10:00
 
