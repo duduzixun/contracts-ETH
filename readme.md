@@ -55,9 +55,9 @@ Metamask钱包：https://metamask.io
         解：1、申请到以太坊测试币，2、在MetaMask钱包(如：chrome MetaMask插件）。
             在上面的第4.4步，选择环境：Injected Web3（MetaMask），只要连接成功后，默认当前活动钱包地址就是发行者。
         
-![img_2.png](img_2.png)
-![img.png](img.png)
-![img_1.png](img_1.png)
+![img_2.png](images/img/img_2.pngg/img_2.png)
+![img.png](images/img/img.pngimg/img.png)
+![img_1.png](images/img/img_1.pngg/img_1.png)
 
 #### 你好永久币：
     下面是发行测试币与验证的步骤：
@@ -75,49 +75,49 @@ Metamask钱包：https://metamask.io
 
     下面截图为B4.4开始，前面的步骤看前面的截图即可
     B4.4，选择环境：Injected Provider - MetaMask ，CHROME会自动弹出MetaMask钱包，（请允许连接
-![img_3.png](img_3.png)
+![img_3.png](images/img/img_3.pngg/img_3.png)
     
     选择当前活动钱包地址，点击“连接”按钮。
-![img_4.png](img_4.png)
+![img_4.png](images/img/img_4.pngg/img_4.png)
     
     检测是否有测试币
-![img_5.png](img_5.png)
+![img_5.png](images/img/img_5.pngg/img_5.png)
     
     连接好后，账户会显示你的账号情况，需要有测试币。
     B4.5、点击 transact 发布(费用相差甚至达几百倍），是不是很夸张（测试 与主网的规则类似）
-![img_7.png](img_7.png)
-![img_9.png](img_9.png)
+![img_7.png](images/img/img_7.pngg/img_7.png)
+![img_9.png](images/img/img_9.pngg/img_9.png)
 
     小狐狸 插件自动弹出，点击“确认”按钮。
     【重要】，这里点了后就要花钱了，请重要这一步，，请注意。
-![img_6.png](img_6.png)
+![img_6.png](images/img/img_6.pngg/img_6.png)
 
-![img_8.png](img_8.png)
+![img_8.png](images/img/img_8.pngg/img_8.png)
 
     B4.6、查看，交易状态，是否成功。以及查看合约地址。，这里成功了后会出现智能合约地址，如：0x9de99b5a80c84fcae02051ec801d2d9b4577374a
-![img_13.png](img_13.png)
+![img_13.png](images/img/img_13.png/img_13.png)
 
 
-![img_11.png](img_11.png)
+![img_11.png](images/img/img_11.png/img_11.png)
 发布成功
-![img_12.png](img_12.png)
+![img_12.png](images/img/img_12.png/img_12.png)
 
 
 增加代币,把刚才复制的地址：0x9de99b5a80c84fcae02051ec801d2d9b4577374a
-![img_10.png](img_10.png)
-![img_14.png](img_14.png)
+![img_10.png](images/img/img_10.png/img_10.png)
+![img_14.png](images/img/img_14.png/img_14.png)
 下一步，添加代币
-![img_15.png](img_15.png)
+![img_15.png](images/img/img_15.png/img_15.png)
 点击导入
-![img_16.png](img_16.png)
+![img_16.png](images/img/img_16.png/img_16.png)
 
 成功效果
-![img_17.png](img_17.png)
-![img_18.png](img_18.png)
+![img_17.png](images/img/img_17.png/img_17.png)
+![img_18.png](images/img/img_18.png/img_18.png)
 
 好了，代币就可以使用了。   
 
- 是你的合约地址，你可以把这个地址分享给其他人，让他们也可以使用你的代币。
+是你的合约地址，你可以把这个地址分享给其他人，让他们也可以使用你的代币。
 智能合约(两要素：网络，地址) 
 网络是：sepolia 
 地址：0x9De99b5a80C84fcaE02051eC801d2D9b4577374a
