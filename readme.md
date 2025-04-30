@@ -14,7 +14,7 @@ Metamask钱包：https://metamask.io
 
 
 核心操作步骤：
-1、打开编辑器：https://remix.ethereum.org
+1、打开编辑器：https://remix.ethereum.org  
 ![img.png](images/img.png)
 
 
@@ -25,7 +25,7 @@ Metamask钱包：https://metamask.io
 2、克隆代码
     选择左上角 汉堡 图标，选择“文件”，选择“打开文件”，选择“克隆”，
 ![img_1.png](images/img_1.png)
-选择“克隆URL”，输入以下地址：https://github.com/duduzixun/contracts-ETH.git
+选择“克隆URL”，输入以下地址：https://github.com/duduzixun/contracts-ETH.git  
 ![img_3.png](images/img_3.png)
 克隆成功的结构：
 ![img_4.png](images/img_4.png)
