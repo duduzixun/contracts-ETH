@@ -21,11 +21,11 @@ Metamask钱包：https://metamask.io
 
 ### 2、克隆代码
     选择左上角 汉堡 图标，选择“文件”，选择“打开文件”，选择“克隆”，
-![img_1.png](images/img_1.png)
+![img_1.png](images/img_1.png)  
 选择“克隆URL”，输入以下地址：https://github.com/duduzixun/contracts-ETH.git  
-![img_3.png](images/img_3.png)
+![img_3.png](images/img_3.png)  
 克隆成功的结构：
-![img_4.png](images/img_4.png)
+![img_4.png](images/img_4.png)  
 
 
 ### 3、编译代码
@@ -84,12 +84,15 @@ Metamask钱包：https://metamask.io
 ![img_5.png](img_5.png)
     
     连接好后，账户会显示你的账号情况，需要有测试币。
-    B4.5、点击 transact 发布
+    B4.5、点击 transact 发布(费用相差甚至达几百倍），是不是很夸张（测试 与主网的规则类似）
 ![img_7.png](img_7.png)
+![img_9.png](img_9.png)
+
     小狐狸 插件自动弹出，点击“确认”按钮。
     【重要】，这里点了后就要花钱了，请重要这一步，，请注意。
 ![img_6.png](img_6.png)
+
 ![img_8.png](img_8.png)
 
-datetime: 2024-08-25 10:10:00
+datetime: 2025-04-30 10:10:00
 
