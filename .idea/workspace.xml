@@ -5,29 +5,17 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="719f939c-7abc-4b75-9ca4-59da938a1624" name="更改" comment="提交">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/MarsCodeWorkspaceAppSettings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/git_toolbox_blame.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/1" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/eip20/EIP20.sol" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/eip20/EIP20Interface.sol" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/eip20/SimpleToken.sol" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/eip20/artifacts/EIP20.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/eip20/artifacts/EIP20_metadata.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/eip20/artifacts/build-info/95d56497c476cbac94ee8b5582b7949e.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/eip20/helloETH.sol" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/img.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/img_1.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/img_2.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/img_3.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/img_4.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/img_5.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/main.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/readme.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img_1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img_2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img_3.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img_4.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img_5.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img_6.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img_7.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img_8.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/readme.md" beforeDir="false" afterPath="$PROJECT_DIR$/readme.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -119,7 +107,7 @@
       <workItem from="1745998183289" duration="332000" />
       <workItem from="1745998530931" duration="189000" />
       <workItem from="1745998734789" duration="145000" />
-      <workItem from="1745998895637" duration="1093000" />
+      <workItem from="1745998895637" duration="5375000" />
     </task>
     <task id="LOCAL-00001" summary="提交">
       <created>1745988293212</created>
@@ -170,7 +158,21 @@
       <option name="project" value="LOCAL" />
       <updated>1745999059134</updated>
     </task>
-    <option name="localTasksCounter" value="8" />
+    <task id="LOCAL-00008" summary="提交">
+      <created>1746000107903</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1746000107903</updated>
+    </task>
+    <task id="LOCAL-00009" summary="提交">
+      <created>1746001053553</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1746001053553</updated>
+    </task>
+    <option name="localTasksCounter" value="10" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
